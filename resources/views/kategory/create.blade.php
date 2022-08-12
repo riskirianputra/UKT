@@ -1,0 +1,60 @@
+
+@extends('layouts.applay')
+
+@section('content')
+
+<form method="POST" action="{{ route('kategory.store') }}" enctype="multipart/form-data">
+    {{ csrf_field() }}
+<div class="row">
+            <div class="col-md-6 d-flex align-items-stretch grid-margin">
+              <div class="row flex-grow">
+                <div class="col-12">
+                  <div class="card">
+                    <div class="card-header bg-info">TAMBAH KATEGORY BOBOT</div>
+                    <div class="card-body">
+                            
+                           
+                        <div class="form-group{{ $errors->has('idPeriode') ? ' has-error' : '' }}">
+                            <label for="idPeriode" class="col-md-4 control-label">PERIODE</label>
+                            <div class="col-md-12">
+                              <select class="form-control" name="idPeriode" required="">
+                                <option value="">(Cari Periode)</option>
+                                @foreach($periode as $priod)
+                                    <option value="{{$priod->id}}">{{$priod->namaPeriode}}</option>
+                                @endforeach
+                              </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group{{ $errors->has('isiKategory') ? ' has-error' : '' }}">
+                            <label for="namaKategory" class="col-md-4 control-label">NAMA KATEGORY</label>
+                            <div class="col-md-12">
+                                <input id="namaKategory" type="text" class="form-control" name="namaKategory" value="{{ old('namaKategory') }}" required>
+                                @if ($errors->has('namaKategory'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('namaKategory') }}</strong>
+                                    </span>
+                                @endif
+                            </div>
+                        </div>                                                                              
+                        
+                         
+                        <button type="submit" class="btn btn-primary" id="submit">
+                                    Submit
+                        </button>
+                        <button type="reset" class="btn btn-danger">
+                                    Reset
+                        </button>
+                       <a href="/kategory" class="btn btn-light pull-right">Back</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+</div>
+</form>
+
+  
+
+@endsection

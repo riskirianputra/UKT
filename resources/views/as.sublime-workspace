@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pen",
+				"pendaftaran"
+			],
+			[
+				"pe",
+				"pendaftaran"
+			],
+			[
+				"maha",
+				"mahasiswa"
+			],
+			[
+				"mahasis",
+				"mahasiswa_id"
+			],
+			[
+				"mahasi",
+				"mahasiswa_id"
+			],
+			[
+				"rq",
+				"request"
+			],
+			[
+				"kep",
+				"kepemilikan_rumah"
+			],
+			[
+				"da",
+				"dayaListrikList"
+			],
+			[
+				"daya",
+				"daya_listrik"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"penghas",
+				"penghasilan_ortu"
+			],
+			[
+				"penghasilan",
+				"penghasilanibu"
+			],
+			[
+				"pengha",
+				"penghasilanayah"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"dat",
+				"daya_listrik"
+			],
+			[
+				"peng",
+				"penghasilan_ortu"
+			],
+			[
+				"ala",
+				"alat_transportasi"
+			],
+			[
+				"pengh",
+				"penghasilanAyah"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"ju",
+				"jumlah_Tanggungan"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"id",
+				"idPeriode"
+			],
+			[
+				"prog",
+				"programstudi"
+			],
+			[
+				"ka",
+				"kategory"
+			],
+			[
+				"idk",
+				"idKategory_detail"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"nama",
+				"namaSekolah"
+			],
+			[
+				"namaP",
+				"namaProdi"
+			],
+			[
+				"pend",
+				"Pendaftaran"
+			],
+			[
+				"penda",
+				"pendaftaran_id"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"idKa",
+				"idKategory_detail"
+			],
+			[
+				"tang",
+				"tanggallahir"
+			],
+			[
+				"pendaf",
+				"pendaftaranData"
+			],
+			[
+				"idJ",
+				"idJenisbiaya"
+			],
+			[
+				"nam",
+				"namaJenjang"
+			],
+			[
+				"jeni",
+				"jenisBiaya"
+			],
+			[
+				"ja",
+				"jalur_masuk"
+			],
+			[
+				"Mah",
+				"Mahasiswa_entry"
+			],
+			[
+				"M",
+				"Mahasiswa_entry"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"Ma",
+				"Mahasiswa_entry"
+			],
+			[
+				"idU",
+				"idUser"
+			],
+			[
+				"jalur",
+				"jalurmasuk"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"K",
+				"Kategory_detail"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"uplo",
+				"upload_file"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"rol",
+				"role_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ukt/resources/views/bobot/cetak.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/layouts/applay.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/layouts/appcetak.blade.php",
+		"/C/xampp/htdocs/ukt/public/favicon.ico",
+		"/C/xampp/htdocs/ukt/resources/views/programstudi/edit.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenisfile/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/bobot/show.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/informasi/create.blade.php",
+		"/C/xampp/htdocs/ukt/routes/web.php",
+		"/C/xampp/htdocs/ukt/resources/views/bobot/create.blade.php",
+		"/C/xampp/htdocs/ukt/app/Bobot.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/MahasiswaController.php",
+		"/C/xampp/htdocs/ukt/resources/views/layouts/sidebar.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/bobot/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/upload/index.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/RoleController.php",
+		"/C/xampp/htdocs/ukt/app/Imports/PendaftaranImport.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/KonfirmasiController.php",
+		"/C/xampp/htdocs/ukt/app/User.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/PendaftaranController.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_10_07_022826_create-bobot-table.php",
+		"/C/xampp/htdocs/ukt/database/seeds/UserTableSeeder.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/BobotController.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/ukt/config/auth.php",
+		"/C/xampp/htdocs/ukt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/xampp/htdocs/ukt/.env",
+		"/E/rian/OMDEPI/RPM PHP 7/app/Http/Controllers/LaporanBarangController.php",
+		"/C/xampp/htdocs/ukt/resources/views/roles/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/users/edit.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/users/create.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/roles/create.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/roles/edit.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/mahasiswa/index.blade.php",
+		"/C/xampp/htdocs/ukt/app/Mahasiswa.php",
+		"/C/xampp/htdocs/ukt/resources/views/konfirmasi/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/layouts/cetak.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/mahasiswa/edit.blade.php",
+		"/C/xampp/htdocs/ukt/app/Konfirmasi.php",
+		"/C/xampp/htdocs/ukt/resources/views/mahasiswa/create.blade.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_09_23_082333_create-mahasiswa-table.php",
+		"/C/xampp/htdocs/ukt/resources/views/programstudi/create.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/programstudi/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/pendaftaran/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/tarif/index.blade.php",
+		"/C/xampp/htdocs/ukt/database/seeds/RoleSeeder.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenisbiaya/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/periode/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/fakultas/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/jalur_masuk/index.blade.php",
+		"/C/xampp/htdocs/ukt/config/app.php",
+		"/C/xampp/htdocs/ukt/resources/views/home.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/mahasiswa/show.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/upload/create.blade.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_09_23_081447_create-pendaftaran-table.php",
+		"/C/xampp/htdocs/ukt/app/Pendaftaran.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_09_23_082411_create-programstudi-table.php",
+		"/C/xampp/htdocs/ukt/app/Jenisfile.php",
+		"/C/xampp/htdocs/ukt/resources/views/programstudi/show.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/tarif/edit.blade.php",
+		"/C/xampp/htdocs/ukt/app/Tarif.php",
+		"/C/xampp/htdocs/ukt/resources/views/kategory/edit.blade.php",
+		"/C/xampp/htdocs/ukt/app/Kategory.php",
+		"/C/xampp/htdocs/ukt/resources/views/kategory/index.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/TarifController.php",
+		"/C/xampp/htdocs/ukt/app/Jalur_masuk.php",
+		"/C/xampp/htdocs/ukt/app/Jenisbiaya.php",
+		"/C/xampp/htdocs/ukt/resources/views/kategory_detail/index.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/ProgramstudiController.php",
+		"/C/xampp/htdocs/ukt/app/Programstudi.php",
+		"/C/xampp/htdocs/ukt/resources/views/tarif/create.blade.php",
+		"/C/xampp/htdocs/ukt/app/Periode.php",
+		"/C/xampp/htdocs/ukt/app/Fakultas.php",
+		"/C/xampp/htdocs/ukt/resources/views/mahasiswa_entry/index.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/Mahasiswa_entryController.php",
+		"/C/xampp/htdocs/ukt/resources/views/mahasiswa_entry/create.blade.php",
+		"/C/xampp/htdocs/ukt/app/Mahasiswa_entry.php",
+		"/C/xampp/htdocs/ukt/app/Uploadfile.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/UploadController.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_10_02_083248_create-upload_file-table.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_10_01_081803_create-jenis_file-table.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_10_08_082522_create-periode-table.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_10_09_093153_create-tarif-table.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_09_30_025127_create-informasi-table.php",
+		"/C/xampp/htdocs/ukt/resources/views/pendaftaran/show.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/pendaftaran/edit.blade.php",
+		"/C/xampp/htdocs/ukt/app/Kategory_detail.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/InformasiController.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenjang/index.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/kategory_detail/edit.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/ukt/database/seeds/FakultasSeeder.php",
+		"/C/xampp/htdocs/ukt/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_10_15_081708_create-kategory-table.php",
+		"/C/xampp/htdocs/ukt/resources/views/users/index.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/FakultasController.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2019_09_23_082526_create-tarif-table.php",
+		"/C/xampp/htdocs/ukt/database/seeds/KategorySeeder.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/JenjangController.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenisbiaya/create.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenjang/edit.blade.php",
+		"/C/xampp/htdocs/ukt/app/Jenjang.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenisbiaya/edit.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/jenjang/create.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/JenisbiayaController.php",
+		"/C/xampp/htdocs/ukt/resources/views/periode/show.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/jalur_masuk/show.blade.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/JalurmasukController.php",
+		"/C/xampp/htdocs/ukt/resources/views/fakultas/show.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/pendaftaran/create.blade.php",
+		"/C/xampp/htdocs/ukt/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/ukt/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/ukt/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/uktbaru/routes/web.php",
+		"/C/xampp/htdocs/ukt/database/seeds/Role_has_permissionTableSeeder.php",
+		"/C/xampp/htdocs/ukt/database/seeds/PermissionTableSeeder.php",
+		"/C/xampp/htdocs/ukt/database/seeds/RoleTableSeeder.php",
+		"/C/xampp/htdocs/ukt/database/seeds/Role_has_permissionSeeder.php",
+		"/C/xampp/htdocs/ukt/database/seeds/PermissionSeeder.php",
+		"/C/xampp/htdocs/ukt/app/Http/Controllers/PermissionController.php",
+		"/C/xampp/htdocs/uktbaru/app/Http/Controllers/Mahasiswa_entryController.php",
+		"/C/xampp/htdocs/uktbaru/app/Mahasiswa_entry.php",
+		"/C/xampp/htdocs/uktbaru/resources/views/mahasiswa_entry/create.blade.php",
+		"/C/xampp/htdocs/uktbaru/app/Http/Controllers/InformasiController.php",
+		"/C/xampp/htdocs/uktbaru/database/migrations/2019_10_24_045759_create-mahasiswa_entry-table.php",
+		"/C/xampp/htdocs/uktbaru/database/migrations/2019_10_23_095301_create-mahasiswa_entry-table.php",
+		"/C/xampp/htdocs/uktbaru/app/Http/Controllers/KonfirmasiController.php",
+		"/C/xampp/htdocs/uktbaru/app/Konfirmasi.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "as.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 429.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
